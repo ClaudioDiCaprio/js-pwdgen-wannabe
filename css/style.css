@@ -1,0 +1,12 @@
+#password {
+    color:yellow;
+    background-color: blue;
+    text-align: center;
+    font-size: 120;
+    text-transform: uppercase;
+}
+
+#password:hover {
+    color: rgb(255, 153, 0);
+    background-color: rgb(0, 0, 0);
+}
